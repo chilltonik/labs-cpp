@@ -1,0 +1,94 @@
+|"| met for 10 times at lines: 31, 32, 40, 41
+|"CANT| met for 1 times at lines: 137
+|"Source| met for 1 times at lines: 26
+|"and"| met for 1 times at lines: 125
+|"auto"| met for 1 times at lines: 127
+|"begin"| met for 1 times at lines: 128
+|"bool"| met for 1 times at lines: 125
+|"break"| met for 1 times at lines: 127
+|"case"| met for 1 times at lines: 126
+|"cerr"| met for 1 times at lines: 128
+|"char"| met for 1 times at lines: 125
+|"clear"| met for 1 times at lines: 128
+|"const"| met for 1 times at lines: 124
+|"continue"| met for 1 times at lines: 125
+|"cout"| met for 1 times at lines: 128
+|"default"| met for 1 times at lines: 126
+|"else"| met for 1 times at lines: 126
+|"empty"| met for 1 times at lines: 128
+|"end"| met for 1 times at lines: 128
+|"endl"| met for 1 times at lines: 128
+|"eof"| met for 1 times at lines: 129
+|"erase"| met for 1 times at lines: 129
+|"exit"| met for 1 times at lines: 129
+|"false"| met for 1 times at lines: 127
+|"first"| met for 1 times at lines: 129
+|"for"| met for 1 times at lines: 127
+|"if"| met for 1 times at lines: 125
+|"ifstream"| met for 1 times at lines: 129
+|"int"| met for 1 times at lines: 124
+|"main"| met for 1 times at lines: 130
+|"map"| met for 1 times at lines: 130
+|"namespace"| met for 1 times at lines: 124
+|"ofstream"| met for 1 times at lines: 129
+|"or"| met for 1 times at lines: 127
+|"out| met for 1 times at lines: 28
+|"return"| met for 1 times at lines: 126
+|"second"| met for 1 times at lines: 130
+|"std"| met for 1 times at lines: 127
+|"string"| met for 1 times at lines: 129
+|"struct"| met for 1 times at lines: 127
+|"switch"| met for 1 times at lines: 126
+|"true"| met for 1 times at lines: 126
+|"using"| met for 1 times at lines: 124
+|"vector"| met for 1 times at lines: 130
+|"void"| met for 1 times at lines: 124
+|"while"| met for 1 times at lines: 125
+|"|| met for 2 times at lines: 31, 32
+|"|"| met for 2 times at lines: 31, 32
+|'| met for 38 times at lines: 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116
+|'#'| met for 1 times at lines: 156
+|'/'| met for 3 times at lines: 69, 162
+|0| met for 9 times at lines: 12, 34, 48, 56, 57, 156, 162, 175, 177
+|1| met for 4 times at lines: 38, 69, 144, 180
+|9| met for 1 times at lines: 138
+|FILE"| met for 1 times at lines: 137
+|OPEN| met for 1 times at lines: 137
+|at| met for 2 times at lines: 31, 32
+|buffer| met for 5 times at lines: 143, 180, 181, 182, 194
+|bufferLine| met for 6 times at lines: 141, 148, 151, 156, 162, 174
+|bufferWords| met for 10 times at lines: 142, 174, 175, 177, 182, 187, 188, 189, 191
+|c| met for 3 times at lines: 19, 94, 96
+|count| met for 1 times at lines: 177
+|cpp"| met for 1 times at lines: 26
+|f| met for 9 times at lines: 28, 32, 37, 41, 45, 134, 135, 146, 148
+|file_Name| met for 2 times at lines: 132, 134
+|file_name| met for 1 times at lines: 16
+|find| met for 1 times at lines: 188
+|getline| met for 1 times at lines: 148
+|i| met for 12 times at lines: 34, 36, 37, 38, 83, 85, 87, 90
+|identifiers| met for 13 times at lines: 16, 24, 26, 29, 132, 177, 182, 187, 188, 189, 191
+|index| met for 9 times at lines: 56, 59, 61, 63, 69, 74, 76
+|is_key_word| met for 3 times at lines: 20, 85, 122
+|is_open| met for 1 times at lines: 135
+|is_splitter| met for 4 times at lines: 19, 61, 74, 94
+|line| met for 9 times at lines: 18, 52, 59, 61, 69, 74, 76
+|lineCounter| met for 8 times at lines: 144, 152, 158, 164, 181, 189, 191, 196
+|lines| met for 1 times at lines: 32
+|m_amount| met for 5 times at lines: 12, 31, 32, 180, 187
+|m_lines| met for 11 times at lines: 13, 34, 36, 37, 38, 181, 188, 189, 191, 194
+|met| met for 2 times at lines: 31, 32
+|p| met for 11 times at lines: 29, 31, 32, 34, 36, 37, 38
+|properties| met for 5 times at lines: 10, 16, 24, 132, 143
+|push_back| met for 4 times at lines: 76, 78, 181, 191
+|result| met for 6 times at lines: 54, 78, 83, 87, 92
+|scan_cpp| met for 3 times at lines: 16, 26, 132
+|size| met for 5 times at lines: 34, 38, 59, 74, 175
+|split| met for 3 times at lines: 18, 52, 174
+|times| met for 2 times at lines: 31, 32
+|tmp| met for 4 times at lines: 55, 76, 78, 79
+|txt"| met for 1 times at lines: 28
+|w| met for 10 times at lines: 175, 177, 182, 187, 188, 189, 191
+|word| met for 44 times at lines: 20, 122, 124, 125, 126, 127, 128, 129, 130
+|wordIndex| met for 2 times at lines: 57, 80
+|||| met for 41 times at lines: 124, 125, 126, 127, 128, 129, 130

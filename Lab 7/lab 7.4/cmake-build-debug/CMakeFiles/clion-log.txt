@@ -1,0 +1,1 @@
+CMakeLists.txt not found in D:\BSU\1 Курс\2 Семестр\Программирование C++\Лабораторные работы\Лабораторная работа №7\Project_7.4 Select CMakeLists.txt
